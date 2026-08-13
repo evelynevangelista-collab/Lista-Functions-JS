@@ -3,5 +3,5 @@ function calcularArea(base, altura) {
     return medidas;
 }
 
-let resultadoMedidas = calcularArea(12, 6) / 2;
+let resultadoMedidas = calcularArea(12, 6);
 console.log(resultadoMedidas);
